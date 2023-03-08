@@ -38,8 +38,8 @@ Mobile device view.
 
 ### Links
 
-- Repository URL: [Add solution URL here](https://github.com/ElizabethLankford/Summary-React-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: [GitHub repo](https://github.com/ElizabethLankford/Summary--React-component)
+- Live Site URL: [Netlify live site]([https://your-live-site-url.com](https://summary-react-component.netlify.app/))
 
 ## My process
 
