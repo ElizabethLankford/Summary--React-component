@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/screenshot-1.jpg)
+![](./build/assets/images/screenshot-1.JPG)
 
 Desktop view.
 
-![](./assets/images/screenshot-2.jpg)
+![](./build/assets/images/screenshot-2.JPG)
 
 Mobile device view.
 
